@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachefarse",
+        "uuid": 5668370,
+        "checksum": "x6zn6d"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
